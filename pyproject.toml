@@ -1,0 +1,12 @@
+
+[project]
+name = "sierraLobo_circuitpython_ina230"
+description = "Power monitor sensor library"
+version = "0.0.0+auto.0"
+readme = "README.rst"
+authors = [
+    {name = "Caden Hillis"}
+]
+
+[project.urls]
+Homepage = "https://github.com/Sierra-Lobo/SierraLobo_CircuitPython_INA230"
